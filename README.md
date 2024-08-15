@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marjeta
-- 👀 I’m interested programming languages
+- 👀 I’m an Instructor at Howard Community College, teaching programming languages
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: if you are my student, you contact me through Canvas
